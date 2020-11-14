@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UE_Pak_4_22": {
+      "commandName": "Project",
+      "commandLineArgs": "\"G:\\Games\\Trials of Mana\\Trials of Mana\\Content\\Paks\""
+    }
+  }
+}
